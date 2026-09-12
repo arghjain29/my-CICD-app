@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Edited this File to test the CI/CD pipeline. This is a simple React app built with Vite.
+            Edited this File to test the CI/CD pipeline.
           </p>
         </div>
         <button
